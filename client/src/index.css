@@ -1,0 +1,15 @@
+/* * {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+} */
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+input {
+  margin: 0.5rem 0 !important;
+}
